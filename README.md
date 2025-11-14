@@ -1,6 +1,6 @@
 # Medical Equipment Classification using CNN
 ## Project Overview
-A deep learning model that classifies surgical equipment in operating rooms using Convolutional Neural Networks (CNN). This project assists medical robots in identifying surgical tools with 75% accuracy.
+A deep learning model that classifies surgical equipment in operating rooms using Convolutional Neural Networks (CNN). This project assists medical robots in identifying surgical tools with 72% accuracy.
 ## Features
 - Image classification of 3 surgical equipment types
 - Real-time predictions using CNN
