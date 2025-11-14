@@ -7,7 +7,7 @@ A deep learning model that classifies surgical equipment in operating rooms usin
 - Multiple image processing techniques
 - Data augmentation for improved accuracy
 ## Results
-- Accuracy: 75%
+- Accuracy: 72%
 - Classes: 3
 - Dataset Size: 251 images
 - Model: Custom CNN
