@@ -8,6 +8,9 @@ A deep learning model that classifies surgical equipment in operating rooms usin
 - **Classes:** 3 (Operation Table, Surgery Light, Operation Room)
 - **Dataset:** 251 images
 - **Framework:** TensorFlow/Keras
+📈 Results
+
+The model achieved 72% accuracy in classifying three types of surgical equipment, demonstrating potential for real-world medical applications
 
 ## 🛠️ Installation
 ```bash
